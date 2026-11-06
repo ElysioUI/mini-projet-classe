@@ -27,3 +27,7 @@ L'adresse publique affiche la page sur un téléphone et sur un ordinateur.
 - Peut-on le montrer en fin de sprint 2 ? Oui.
 - Peut-on le découper en 12 à 20 tâches de 1 à 4 heures ? Oui.
 - Qui valide le résultat ? Hamza ABID
+
+## Charge estimée
+- Sprint 1 (9 au 15 novembre) : 13 h
+- Sprint 2 (16 au 22 novembre) : 11 h
